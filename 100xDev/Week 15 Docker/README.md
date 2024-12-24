@@ -132,3 +132,10 @@ if backend have not image and you want to build it by dockerfile
 backend:
     build: .
 ```
+
+## Binding host folderrs to container
+```bash
+docker run -v /path/to/host/folder:/path/to/container/folder -p 8080:80 nginx
+
+docker run -p 3000:3000 -v ./app:/nextapp/app nextapp
+```
