@@ -59,3 +59,4 @@
 ## Week 16
 - Turbo Repo
 - Auth using cookies
+- Next Auth
