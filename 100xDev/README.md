@@ -60,3 +60,9 @@
 - Turbo Repo
 - Auth using cookies
 - Next Auth
+
+## Week 17
+- paytm full stack App
+
+## Week 18
+- CI/CD pipeline
