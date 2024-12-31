@@ -66,3 +66,6 @@
 
 ## Week 18
 - CI/CD pipeline
+
+## Week 19
+- middleware in Next.js
