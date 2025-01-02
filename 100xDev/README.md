@@ -70,3 +70,4 @@
 ## Week 19
 - middleware in Next.js
 - CSR SSR SSG
+- WebSockets
