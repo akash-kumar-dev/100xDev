@@ -7,3 +7,6 @@
 ```bash
 npm i ws @types/ws
 ```
+
+
+## Redis

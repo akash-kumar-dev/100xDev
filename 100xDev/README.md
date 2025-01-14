@@ -71,3 +71,7 @@
 - middleware in Next.js
 - CSR SSR SSG
 - WebSockets
+- Redis
+
+## Week 20
+- OpenAPI Spec
