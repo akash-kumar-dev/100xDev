@@ -75,3 +75,6 @@
 
 ## Week 20
 - OpenAPI Spec
+
+## week 21
+- Rate Limiting, DDoS, Captchas
