@@ -78,3 +78,4 @@
 
 ## week 21
 - Rate Limiting, DDoS, Captchas
+- singleton Pattern + Pub Subs

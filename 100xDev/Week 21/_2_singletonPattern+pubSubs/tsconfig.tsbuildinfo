@@ -1,0 +1,1 @@
+{"root":["./src/PubSubManager.ts","./src/index.ts","./src/singletone/index.ts","./src/singletone/logger.ts","./src/singletone/store.ts"],"version":"5.6.3"}
