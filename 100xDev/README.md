@@ -85,3 +85,6 @@
 
 ## Week 23
 - WebRTC
+
+## Week 24
+- GRPC
