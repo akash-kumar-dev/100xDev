@@ -1,0 +1,22 @@
+{
+  "name": "_2_expressapp-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@types/express": "^5.0.1",
+    "ts-jest": "^29.2.6"
+  },
+  "dependencies": {
+    "@types/supertest": "^6.0.2",
+    "express": "^4.21.2",
+    "supertest": "^7.1.0"
+  }
+}
