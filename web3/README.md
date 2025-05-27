@@ -6,3 +6,8 @@
 - Hashing
 - Encoding
 - wallet
+
+### week 3 - creating a web based wallet
+- Seed phrase
+- RPCs servers for blockchain
+- common RPCs on ETH or solana
