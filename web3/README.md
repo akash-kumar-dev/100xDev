@@ -11,3 +11,8 @@
 - Seed phrase
 - RPCs servers for blockchain
 - common RPCs on ETH or solana
+
+### week 4 - Solana Token Program
+- Solana CLI
+- Token Program 22
+
