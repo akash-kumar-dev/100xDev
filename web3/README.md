@@ -16,3 +16,8 @@
 - Solana CLI
 - Token Program 22
 
+### week 5 - Wallet adapters
+- Request Airdrop, send sol, sign message, send solana
+
+
+
