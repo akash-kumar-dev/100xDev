@@ -19,5 +19,12 @@
 ### week 5 - Wallet adapters
 - Request Airdrop, send sol, sign message, send solana
 
+### week 6 - Token Launchpad
+
+### week 7 - Ownership and Authorities & PDAs
+- PDAs
+- System program
+- BPF Loader
+
 
 
