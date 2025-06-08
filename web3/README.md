@@ -26,5 +26,6 @@
 - System program
 - BPF Loader
 
-
-
+### week 8
+ - DApp (implementation)
+    - Wallet connect, request airdrop, balance check, send transaction, sign message
