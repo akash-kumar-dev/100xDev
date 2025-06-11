@@ -5,3 +5,6 @@
 - Send Transaction
 - Sign Message
 
+## Token Launchpad
+- Create Mint
+- Create Token *** (REMAINING)

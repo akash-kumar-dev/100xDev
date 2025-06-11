@@ -27,5 +27,9 @@
 - BPF Loader
 
 ### week 8
- - DApp (implementation)
-    - Wallet connect, request airdrop, balance check, send transaction, sign message
+- DApp (implementation)
+   - Wallet connect, request airdrop, balance check, send transaction, sign message
+- Token Launchpad
+
+### week 9 - DEX/CEX
+- swap Token (jupiter)
