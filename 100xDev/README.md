@@ -93,3 +93,6 @@
 ## Week 25
 - Integration Testing
 - e2e Testing
+
+## Week 26
+- Logging, Monitoring, Newrelic
