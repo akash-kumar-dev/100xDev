@@ -96,3 +96,4 @@
 
 ## Week 26
 - Logging, Monitoring, Newrelic
+- Grafana, Prometheus
