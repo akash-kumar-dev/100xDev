@@ -33,3 +33,7 @@
 
 ### week 9 - DEX/CEX
 - swap Token (jupiter)
+
+### week 10 - Ethereum and EVM
+- Ethereum
+- EVM
