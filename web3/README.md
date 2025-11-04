@@ -37,3 +37,8 @@
 ### week 10 - Ethereum and EVM
 - Ethereum
 - EVM
+
+### week 11 - ETH frontend
+- wagmi
+- viem
+- tanstack
