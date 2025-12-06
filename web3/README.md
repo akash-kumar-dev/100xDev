@@ -42,3 +42,14 @@
 - wagmi
 - viem
 - tanstack
+
+### week 12 - DEX funding
+- AMMs (Automated Market Makers)
+- Liquidity Pools
+- Swapping
+- Staking
+
+### week 13 - Liquid Staking Token & Indexers
+- Liquid Staking Token
+- Indexers
+- Webhooks (helius.dev)
