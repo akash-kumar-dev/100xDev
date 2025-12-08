@@ -53,3 +53,7 @@
 - Liquid Staking Token
 - Indexers
 - Webhooks (helius.dev)
+
+### week 14 - Private Key Management
+- Creating a cloud wallet
+- Sending transaction from cloud wallet
