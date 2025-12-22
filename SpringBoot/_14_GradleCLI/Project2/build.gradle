@@ -1,0 +1,43 @@
+plugins {
+    id 'java'
+}
+
+group = 'org.example'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.squareup.okhttp3:okhttp:5.3.0'
+
+    // Retrofit core
+    implementation 'com.squareup.retrofit2:retrofit:2.10.0'
+    // Converter for JSON serialization/deserialization (using Gson)
+    implementation 'com.squareup.retrofit2:converter-gson:2.10.0'
+    // Optional: OkHttp logging interceptor (useful for debugging network requests)
+    implementation'com.squareup.okhttp3:logging-interceptor:4.12.0'
+
+    implementation 'com.google.code.gson:gson:2.10.1'
+
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+}
+
+jar {
+    duplicatesStrategy = DuplicatesStrategy.INCLUDE
+    manifest {
+        attributes (
+                'Main-Class': 'org.example.Main'
+        )
+    }
+    from {
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}
+
+test {
+    useJUnitPlatform()
+}
