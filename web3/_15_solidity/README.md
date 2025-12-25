@@ -53,7 +53,9 @@ https://narrow-area-267.notion.site/Solidity-2c27be336c2f811bbf9ecf763eb7d0ea
 - Solidity supports inheritance, allowing contracts to inherit properties and methods from other contracts.
 
 `Vehicle.sol:`
-    ```solidity
+
+```solidity
+    
     contract Vehicle {
         string public brand;
 
@@ -65,8 +67,11 @@ https://narrow-area-267.notion.site/Solidity-2c27be336c2f811bbf9ecf763eb7d0ea
             return "This is Vehicle Class.";
         }
     }
-    ```
+```
+
 Car.sol:
+
+```solidity
 
     import "./Vehicle.sol";
 
@@ -81,6 +86,7 @@ Car.sol:
             return "This is a Car Class.";
         }
     }
+```
 
 ### Require
 - The `require` function is used to enforce conditions in Solidity. If the condition is not met, the transaction is reverted, and an optional error message can be provided.
