@@ -59,3 +59,7 @@
 - Sending transaction from cloud wallet
 
 ### week - 15 - Solidity
+
+### week - 16 - Payable CCIs in ETH
+- CCIs
+- Payables
