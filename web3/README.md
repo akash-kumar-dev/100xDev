@@ -63,3 +63,6 @@
 ### week - 16 - Payable CCIs in ETH
 - CCIs
 - Payables
+
+### week - 17 - ERC20 and Zeplin
+- ERC20
