@@ -66,3 +66,6 @@
 
 ### week - 17 - ERC20 and Zeplin
 - ERC20
+
+### week - 18 - Foundry and Hardhat
+- Foundry
