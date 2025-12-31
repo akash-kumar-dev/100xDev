@@ -27,3 +27,5 @@ init Foundry project:
 ```bash
 forge init --template https://github.com/foundry-rs/forge-template hello_template
 ```
+
+[notion doc](https://narrow-area-267.notion.site/Ganache-Trufle-Hardhat-and-Foundry-2c27be336c2f812a84c7e11f519e48ac)
